@@ -1,2 +1,2 @@
 # Machine_learning_study
-Research of machine learning
+Research and study of machine learning
